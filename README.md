@@ -17,4 +17,3 @@ Run:
 npm install
 npx nodemon server.js
 
-http://localhost:5000/register.html
